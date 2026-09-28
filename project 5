@@ -27,7 +27,7 @@ void displayDetails()
 
   int main()
 {
-Student s1(202, "Surya", "Computer Science");
+Student s1(402,"Jay", "Computer Science");
 s1.displayDetails();
 
  return 0;
