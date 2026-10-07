@@ -29,7 +29,7 @@ public:
   int main()
   {
 
-     Employee emp(101, "Suryansh");
+     Employee emp(102, "jay");
 
      emp.display();
 
